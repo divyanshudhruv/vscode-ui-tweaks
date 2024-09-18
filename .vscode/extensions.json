@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "be5invis.vscode-custom-css", // Custom CSS and JS Loader extension v7.2.2
+    "binaryify.theme-one-dark-pro", // One Dark Pro theme extension v3.17.2
+    "mikaelkristiansson87.react-theme" // React Theme extension v1.3.0
+  ],
+  "unwantedRecommendations": [
+    "johnpapa.vscode-peacock" // Peacock v4.2.2
+  ]
+}
