@@ -1,0 +1,18 @@
+{
+  "themes": {
+    "one_dark_pro": {
+      "name": "One Dark Pro",
+      "description": "Configuration for One Dark Pro theme.",
+      "theme": "One Dark Pro",
+      "version": "3.17.2",
+      "author": "binaryify"
+    },
+    "default": {
+      "name": "Default",
+      "description": "No custom theme settings applied.",
+      "theme": "Default",
+      "version": "1.0.0",
+      "author": "N/A"
+    }
+  }
+}

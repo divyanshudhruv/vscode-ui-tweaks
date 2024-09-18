@@ -1,0 +1,17 @@
+ /* Remove the multi-line comment before using
+ {
+   // Default settings
+   "vscode_custom_css.imports": [
+
+     // For Windows users:
+     // Replace 'your-folder-name' with the name of your project's folder.
+     // Example path: file:///C:/Users/YourUsername/your-folder-name/css/custom-vscode.css
+     "file:///${workspaceFolder}/your-folder-name/css/custom-vscode.css",
+
+     // For macOS users:
+     // Replace 'your-folder-name' with the name of your project's folder.
+     // Example path: file:///Users/YourUsername/your-folder-name/css/custom-vscode.css
+     "file:///${workspaceFolder}/your-folder-name/js/vscode-script.js"
+   ]
+ }
+*/
