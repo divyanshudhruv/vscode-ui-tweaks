@@ -10,15 +10,17 @@
     "Other",
     "Themes"
   ],
-  "activationEvents": [
-    "*"
-  ],
+  "activationEvents": [],
   "main": "./extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "vscode-ui-tweaks.helloWorld",
-        "title": "Hello World"
+        "command": "vscode-ui-tweaks.addPatch",
+        "title": "Enable VSCode UI Tweaks"
+      },
+      {
+        "command": "vscode-ui-tweaks.removePatch",
+        "title": "Disable VSCode UI Tweaks"
       }
     ]
   },
