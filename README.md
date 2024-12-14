@@ -2,6 +2,10 @@
 
 Welcome to `vscode-ui-tweaks`, a collection of custom CSS and JS tweaks designed to elevate your Visual Studio Code experience! ✨
 
+<br>
+
+> We are accepting issues and PRs! 
+
 ## 📂 What's Inside? 
 1. **Custom CSS**: `custom-vscode.css` 🎨 – Enhance the look and feel of your VS Code.
 2. **Custom JS**: `vscode-script.js` 🧩 – Add custom functionality and automation.
