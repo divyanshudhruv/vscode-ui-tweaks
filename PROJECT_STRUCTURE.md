@@ -2,6 +2,8 @@
 
 This document outlines the file structure of the project.
 
+> Some of the structures (directories) are not present in this file because they are not needed in the UI tweaks. They run tests, etc. automatically.
+
 ## 📁 Root Directory 
 
 - **`README.md 📄`**  – Project overview and documentation.
