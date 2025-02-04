@@ -6,6 +6,7 @@
 .slider {
   position: absolute !important;
   left: auto !important;
+  display:auto;
 }
 
 /* ================================== */
@@ -21,6 +22,7 @@
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif !important;
   color: #fff;
   font-size: 13px !important;
+  font-size:inherit;
 }
 
 /* Remove background for lists */
@@ -86,6 +88,7 @@
 .command-center-center {
   width: auto !important;
   width: 250px !important;
+  display:auto;
 }
 /* ================================== */
 
@@ -169,11 +172,13 @@
 /* Height of the popup */
 .notification-toast-container .monaco-list-rows {
   height: 138px !important;
+  display:auto;
 }
 
 /* Heigh of the popup */
 .notification-toast-container .monaco-list-row {
   height: 138px !important;
+  display:auto;
 }
 
 /* Style the main text message container in the popup */
