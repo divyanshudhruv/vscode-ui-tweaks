@@ -87,4 +87,6 @@ document.addEventListener("DOMContentLoaded", function () {
       element.click();
     }
   }
+
+  //test:success(passed)
 });
