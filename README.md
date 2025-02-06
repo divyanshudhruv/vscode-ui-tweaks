@@ -58,4 +58,5 @@ Check out the `assets/` folder for screenshots of the custom UI in action! 🖼�
 Feel free to submit **issues** or **pull requests** to help improve these tweaks. Let's make VS Code even **`better together`** ! 🚀
 
 ## 👥 Contributors
-1. [@tonyxqing](https://github.com/tonyxqing)  
+1. [@divyanshudhruv](https://github.com/divyanshudhruv) : **A**
+2. [@tonyxqing](https://github.com/tonyxqing) : **A**
